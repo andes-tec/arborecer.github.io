@@ -771,7 +771,7 @@ footer {
     .containerContacto {
         display: flex;
         margin-top: 0%;
-        height: 65vh;
+        height: auto;
         background-image: url(./assets/fondo.png);
         background-size: contain;
         background-position: center;
